@@ -1,0 +1,2 @@
+C:\Programowanie 1\AngryPigs_2.0\Debug\AngryPigs_2.0.exe
+C:\Programowanie 1\AngryPigs_2.0\Debug\AngryPigs_2.0.pdb
